@@ -1,15 +1,9 @@
 # Springboard-Capstone-1
 
-**08/24/17 PM**
-- Data wranglin revision 0 ready.
-- For project proposal, please refer to Capstone Project 1 - Proposal.pdf.  
-- For data wrangling report, please refer to Data Wrangling Report.pdf.
-
-**08/26/17 PM**
-- Data story telling revision 0 is ready.
+**09/17/2017**
+ - EDA Report is ready for review.
 
 **09/02/17 AM**
-
 - Data story telling revision 1 is ready. Here is the log of changes:
 
   - Tick labels added to first plot (Section 2.1, plot title: Number of claims (bi-monthly))
@@ -28,3 +22,11 @@
   - Section 5, heatmap and correlation added.
   - Section 5, plot conclusions improved.
   - Section 6, 2D histogram added + conlusion.
+
+**08/26/17 PM**
+- Data story telling revision 0 is ready.
+
+**08/24/17 PM**
+- Data wranglin revision 0 ready.
+- For project proposal, please refer to Capstone Project 1 - Proposal.pdf.  
+- For data wrangling report, please refer to Data Wrangling Report.pdf.
