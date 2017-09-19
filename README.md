@@ -2,6 +2,9 @@
 
 **09/19/2017**
  - Milestone Report is ready for review.
+      - Updated 03_Data_Story_Telling.html
+      - Updated 03_Data_Story_Telling.ipynb
+      - Generated Milestone Report.pdf
 
 **09/17/2017**
  - EDA Report is ready for review.
