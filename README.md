@@ -1,5 +1,8 @@
 # Springboard-Capstone-1
 
+**09/19/2017**
+ - Milestone Report is ready for review.
+
 **09/17/2017**
  - EDA Report is ready for review.
 
