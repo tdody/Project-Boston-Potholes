@@ -1,15 +1,15 @@
-# EDA Project - Boston Potholes
+# Project - Boston Potholes
 
-**09/19/2017**
+**v0.0**
  - Report is ready.
       - Updated 03_Data_Story_Telling.html
       - Updated 03_Data_Story_Telling.ipynb
       - Generated Milestone Report.pdf
 
-**09/17/2017**
- - EDA Report is ready for.
+**v0.1**
+ - EDA Report is ready.
 
-**09/02/17 AM**
+**v0.2**
 - Data story telling revision 1 is ready. Here is the log of changes:
 
   - Tick labels added to first plot (Section 2.1, plot title: Number of claims (bi-monthly))
@@ -29,9 +29,9 @@
   - Section 5, plot conclusions improved.
   - Section 6, 2D histogram added + conlusion.
 
-**08/26/17 PM**
+**v0.3**
 - Data story telling revision 0 is ready.
 
-**08/24/17 PM**
+**v0.4**
 - Data wranglin revision 0 ready. 
 - For data wrangling report, please refer to Data Wrangling Report.pdf.
