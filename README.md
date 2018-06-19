@@ -1,13 +1,13 @@
-# Springboard-Capstone-1
+# EDA Project - Boston Potholes
 
 **09/19/2017**
- - Milestone Report is ready for review.
+ - Report is ready.
       - Updated 03_Data_Story_Telling.html
       - Updated 03_Data_Story_Telling.ipynb
       - Generated Milestone Report.pdf
 
 **09/17/2017**
- - EDA Report is ready for review.
+ - EDA Report is ready for.
 
 **09/02/17 AM**
 - Data story telling revision 1 is ready. Here is the log of changes:
@@ -33,6 +33,5 @@
 - Data story telling revision 0 is ready.
 
 **08/24/17 PM**
-- Data wranglin revision 0 ready.
-- For project proposal, please refer to Capstone Project 1 - Proposal.pdf.  
+- Data wranglin revision 0 ready. 
 - For data wrangling report, please refer to Data Wrangling Report.pdf.
